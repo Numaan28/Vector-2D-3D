@@ -1,0 +1,2 @@
+# Vector-2D-3D
+2D Vector: A 2D (two-dimensional) vector has two components: x and y. It represents a quantity with both direction and magnitude in a flat plane. For example, it can show movement or force in a 2D space like on a piece of paper.  3D Vector: A 3D (three-dimensional) vector has three components: x, y, and z. It represents direction and magnitude in a three-dimensional space, like real-world environments. It is used in physics, computer graphics, and engineering to model objects in 3D space.
