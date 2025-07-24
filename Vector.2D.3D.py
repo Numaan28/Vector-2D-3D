@@ -25,4 +25,6 @@ a = twovector(a1, a2)
 a.show()
 b = threevector(a3, a4, a5)
 b.show()
+#code by salman
+#github  = numaan28
         
